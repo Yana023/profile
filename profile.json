@@ -1,0 +1,48 @@
+{
+    "name": "Yana",
+    "language": "Japanese",
+    "point_cards": [
+        {
+            "name": "dポイント",
+            "enabled": false
+        }
+    ],
+    "description": "WCH,ESP32,GPT,FactoryTown,Factorio,Elin,VSCode等で遊びます。人でも機械でもFRBはご自由にどうぞ。スパムは報告の上でブロックします。('-'*)",
+    "attention": "メールは気付かないかもしれません。TwitterへのDMが一番反応が早いです。",
+    "contacts": [
+        "https://x.com/Yana_023_",
+        "https://t.co/Qh77wS6CmC",
+        "https://t.co/CkhJ1u1IIi",
+        "yana.localhost@gmail.com"
+    ],
+    "website": "https://yana.honifuwa.com/honifuwa-laboratory/",
+    "favorite": [
+        "Ragnarok Online",
+        "Tree of Savior",
+        "Factorio",
+        "VS Code",
+        "CUFFS(http://www.cuffs.co.jp)",
+        "カタハネ",
+        "Fate/Stay Night",
+        "ビジュアルアーツ Key",
+        "CLANNAD",
+        "AIR",
+        "Kanon",
+        "VRChat",
+        "Minecraft",
+        "OpenAI GPT3.5",
+        "時間ねぇー(https://sites.google.com/site/happybusy/)",
+        "技術書展",
+        "つくまた(https://w.atwiki.jp/tukumata/)"
+    ],
+    "donate": [
+        {"name": "Monacoin", "address": "ME5oyXxBtxshFsZDRxGd32u6fBZYGfqSR1"},
+        {"name": "Bitcoin", "address": "15DjCBrLjUwG66wmZhfJDevtuNyjDDnnyo"},
+        {"name": "AmazonList", "url": "https://www.amazon.co.jp/hz/wishlist/ls/31J46LF7O6LV5"}
+    ],
+    "signature": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCtmoQKQvXf1GsvX9Yz9LtenC6v91lw1PffZf+uWUrBlvikJsvomH4W5zU1ckdioTjjHv8+YEIYLboNpR3FbzWZeLP8iQH6Vt3CjPXcbjm0mUae4tPGfzQCGxkQn5vS3mVsNz96nos7FdcmRGEYuDL3+lg+07d+swmH4k+9lOB1Q4/pp/omd3H0Eev/pYl0KhdTJB6ylXE0AwGxAiOkFpWhgh/RQchkz9injHtjCqAvQhuvrLZLC0C4A+AUVNYXinN/zleXbyBFB9RY5wqHEtBTpwVj9nP8OHMJlXj9RlyvAncJCeBNxkvH7UwV7UbMnoByskMsF4NkO7Mlll/fIpfD7WpDSZys1pDRG0NYILejtulsih12Z7SMM7Z2DFL7U/ihbNnf1YieRm19mYHLLr4OcHfcNMY17SGOOe4/UUkafGo2CjSASOAlfXIibAapDi1tk0ulI1iP/J6TeoDhWpq1V3EWrmzTT34hk1QJ06PGJ41zqO/COQsmCX5yUvk0YlM= yana",
+    "allergies": [],
+    "disabilities": [],
+    "created_at": "2025-05-30T19:21:01Z",
+    "updated_at": "2025-05-30T19:21:01Z"
+}
