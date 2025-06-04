@@ -1,0 +1,27 @@
+name: Lint JSON
+
+on:
+  push:
+    paths:
+      - 'profile.json'
+  pull_request:
+    paths:
+      - 'profile.json'
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Validate JSON with jq
+        run: jq . profile.json > /dev/null
+      - name: Ensure trailing newline exists
+        run: |
+          python - <<'PY'
+import sys, os
+with open('profile.json', 'rb') as f:
+    f.seek(-1, os.SEEK_END)
+    if f.read() != b'\n':
+        print('profile.json must end with a newline')
+        sys.exit(1)
+PY
