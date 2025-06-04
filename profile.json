@@ -38,7 +38,7 @@
     "donate": [
         {"name": "Monacoin", "address": "ME5oyXxBtxshFsZDRxGd32u6fBZYGfqSR1"},
         {"name": "Bitcoin", "address": "15DjCBrLjUwG66wmZhfJDevtuNyjDDnnyo"},
-        {"name": "AmazonList", "url": "https://www.amazon.co.jp/hz/wishlist/ls/31J46LF7O6LV5"}
+        {"name": "AmazonList", "address": "https://www.amazon.co.jp/hz/wishlist/ls/31J46LF7O6LV5"}
     ],
     "signature": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCtmoQKQvXf1GsvX9Yz9LtenC6v91lw1PffZf+uWUrBlvikJsvomH4W5zU1ckdioTjjHv8+YEIYLboNpR3FbzWZeLP8iQH6Vt3CjPXcbjm0mUae4tPGfzQCGxkQn5vS3mVsNz96nos7FdcmRGEYuDL3+lg+07d+swmH4k+9lOB1Q4/pp/omd3H0Eev/pYl0KhdTJB6ylXE0AwGxAiOkFpWhgh/RQchkz9injHtjCqAvQhuvrLZLC0C4A+AUVNYXinN/zleXbyBFB9RY5wqHEtBTpwVj9nP8OHMJlXj9RlyvAncJCeBNxkvH7UwV7UbMnoByskMsF4NkO7Mlll/fIpfD7WpDSZys1pDRG0NYILejtulsih12Z7SMM7Z2DFL7U/ihbNnf1YieRm19mYHLLr4OcHfcNMY17SGOOe4/UUkafGo2CjSASOAlfXIibAapDi1tk0ulI1iP/J6TeoDhWpq1V3EWrmzTT34hk1QJ06PGJ41zqO/COQsmCX5yUvk0YlM= yana",
     "allergies": [],
